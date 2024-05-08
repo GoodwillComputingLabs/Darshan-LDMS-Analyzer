@@ -1,0 +1,87 @@
+---------------------------------------
+JOB CHARACTERISTICS:
+---------------------------------------
+Job ID: 19047177
+36 Rank (s): [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+1 Node (s): ['n1119']
+User ID: [12345]
+Directory: ['/projects/ovis/darshanConnector/apps/rhel9.7/ior/build/bin/ior' 'N/A']
+Modules collected: ['STDIO' 'POSIX']
+Module events (MOD): 18713
+Meta events (MET): 147
+---------------------------------------
+I/O OPERATIONS:
+---------------------------------------
+Total I/O makespan: 9.29758 seconds
+Cumulative I/O duration: 200.57687 seconds
+Bandwidth (MiB/second): 7929.8056
+IOPS: 2028.48483 
+
+Approx. Duration reads: 1.1035 seconds
+Approx. Duration writes: 7.2238 seconds
+Approx. Duration opens: 0.9484 seconds
+Approx. Duration closes: 1.5842 seconds
+
+# of reads:  9216
+Cumulative I/O duration: 29.94
+Total bytes: 36864 MiB
+Min data size per rank: 1024 MiB
+Max data size per rank: 1024 MiB
+
+# of writes:  9353
+Cumulative I/O duration: 168.53
+Total bytes: 36864 MiB
+Min data size per rank: 1024 MiB
+Max data size per rank: 1024 MiB
+
+# of opens:  147
+
+# of closes:  144
+---------------------------------------
+I/O PROGRESS RATE:
+---------------------------------------
+- Average: 5.57 seconds
+- Standard Deviation 0.17 seconds
+- Imbalance Time: 0.35 seconds
+- Percent Imbalance: 6.25 %
+---------------------------------------
+SUMMARY PER RANK: 
+(ordered by higher I/O time - all ops)
+---------------------------------------
+ Rank ID  Rank I/O Time (sec)  Total Bytes
+       1                 5.92   2147483640
+      18                 5.88   2147483640
+      19                 5.81   2147483640
+      14                 5.80   2147483640
+      33                 5.74   2147483640
+      12                 5.73   2147483640
+       2                 5.70   2147483640
+       9                 5.70   2147483640
+       8                 5.69   2147483640
+      15                 5.66   2147483640
+      35                 5.65   2147483640
+      29                 5.64   2147483640
+      17                 5.63   2147483640
+      20                 5.63   2147483640
+      25                 5.62   2147483640
+       0                 5.61   2147485930
+      27                 5.60   2147483640
+       5                 5.59   2147483640
+      22                 5.59   2147483640
+      31                 5.58   2147483640
+      16                 5.57   2147483640
+      28                 5.57   2147483640
+      32                 5.56   2147483640
+       7                 5.54   2147483640
+      13                 5.49   2147483640
+       6                 5.48   2147483640
+      24                 5.47   2147483640
+       3                 5.47   2147483640
+      23                 5.46   2147483640
+      10                 5.46   2147483640
+      21                 5.45   2147483640
+      11                 5.37   2147483640
+      34                 5.36   2147483640
+      30                 5.22   2147483640
+       4                 5.21   2147483640
+      26                 5.16   2147483640
