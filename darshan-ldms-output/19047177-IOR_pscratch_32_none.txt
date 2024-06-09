@@ -17,10 +17,10 @@ Cumulative I/O duration: 200.57687 seconds
 Bandwidth (MiB/second): 7929.8056
 IOPS: 2028.48483 
 
-Approx. Duration reads: 1.1035 seconds
-Approx. Duration writes: 7.2238 seconds
-Approx. Duration opens: 0.9484 seconds
-Approx. Duration closes: 1.5842 seconds
+Duration reads: 1.1035 seconds
+Duration writes: 7.2238 seconds
+Duration opens: 0.9484 seconds
+Duration closes: 1.5842 seconds
 
 # of reads:  9216
 Cumulative I/O duration: 29.94
@@ -44,6 +44,7 @@ I/O PROGRESS RATE:
 - Standard Deviation 0.17 seconds
 - Imbalance Time: 0.35 seconds
 - Percent Imbalance: 6.25 %
+- Time Interval: 3.38 seconds
 ---------------------------------------
 SUMMARY PER RANK: 
 (ordered by higher I/O time - all ops)
